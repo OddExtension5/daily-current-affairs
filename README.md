@@ -4,7 +4,7 @@ Welcome to the Current Affairs Section of **_Shiv Learning Centre_**
 
 ![Image](daily-caa.jpg)
 
-### Topics Covered Daily
+## Topics Covered Daily
 
 +  Today's top News
 +  ✈INTERNATIONAL NEWS
@@ -51,3 +51,20 @@ Welcome to the Current Affairs Section of **_Shiv Learning Centre_**
       </details>
 </details>
 
+<p>
+<h2> Why is it important to read current affairs?</h2>
+
+Current Affairs refer to the events of national and international importance relevant from competitive exams perspective like Civil Services Exam, Bank exam, etc. With the change in the pattern of examinations, questions related to current events and news have assumed a major role in deciding the fate of students.
+
+Broadly, the type of questions asked in the general awareness section can be divided into two:
+
+Static
+Dynamic
+The static portion pertains to that section of the UPSC syllabus or other exams syllabus that doesn’t change. For instance, the Revolt of 1857, the physical features of India, etc.
+
+The dynamic portion pertains to current affairs. The best bet to cover current affairs is the daily newspaper and following credible sources like Press Information Bureau (PIB) and Yojana Magazine.
+
+A good understanding of Current Affairs is central to success in the IAS exam, Government exams, or any competitive exam. The current affairs span subjects like history, geography, economy, environment and ecology, polity, science and technology etc.
+
+Candidates should remain updated on current affairs that create headlines nationally as well as internationally. In fact, recent trends have shown that the static and dynamic portions of current affairs syllabus have significant overlap. The probability of encountering unexpected questions from current affairs in the traditionally static portions of the syllabus is quite high.
+</p>
