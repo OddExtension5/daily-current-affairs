@@ -51,6 +51,7 @@ Welcome to the Current Affairs Section of **_Shiv Learning Centre_**
         </details>
   </details>
 
+
 ## Why is it important to read current affairs?
 
 Current Affairs refer to the events of national and international importance relevant from competitive exams perspective like Civil Services Exam, Bank exam, etc. With the change in the pattern of examinations, questions related to current events and news have assumed a major role in deciding the fate of students.
@@ -67,10 +68,3 @@ A good understanding of Current Affairs is central to success in the IAS exam, G
 
 Candidates should remain updated on current affairs that create headlines nationally as well as internationally. In fact, recent trends have shown that the static and dynamic portions of current affairs syllabus have significant overlap. The probability of encountering unexpected questions from current affairs in the traditionally static portions of the syllabus is quite high.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OddExtension5/current-affairs-daily/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
