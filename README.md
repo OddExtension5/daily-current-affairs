@@ -1,17 +1,32 @@
 ## 🌄 Shuboudhay 🙏🏻
 
-You can use the [editor on GitHub](https://github.com/OddExtension5/current-affairs-daily/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to DAILY CURRENT AFFAIR PAGE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](daily-caa.jpg)
 
-### Markdown
+### Topics Covered Daily
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ Today's top News
++ ✈INTERNATIONAL NEWS
++ 🌎WORLD NEWS🌍
++ 🚣🚴🏇🏁🏊Sports
++ EXCHANGE 💷RATE
++ 🇮🇳Facts about India🇮🇳
++ 😀Thought of the day
++ Joke of the day
++ LEARN Sanskrit🙏🏻
++ 💁🏻‍♂️ GK TODAY
++ ⁉ INTERESTING FACTS ⁉
++ 🤔HOW It works...⁉️
++ 🛕VEDIK GYAN
++ 🧬HEALTH CARE: HOME REMEDIES🩺
+
+[MAY 2021](https://github.com/OddExtension5/daily-current-affairs/blob/main/MAY-2021.md)
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+[MAY 2021](https://github.com/OddExtension5/daily-current-affairs/blob/main/MAY-2021.md)
 ## Header 2
 ### Header 3
 
