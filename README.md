@@ -24,7 +24,6 @@ Welcome to the Current Affairs Section of **_Shiv Learning Centre_**
 
 ## DAILY NEWS
 
-```markdown
 <details open>
  <summary><strong> 2021 🔥</strong></summary>
 <br>
@@ -34,7 +33,7 @@ Welcome to the Current Affairs Section of **_Shiv Learning Centre_**
   - [10th-MAY-2021](MAY/10-MAY-2021.md)
 
 </details>
-```
+
 <hr> </hr>
 
 ## Why is it important to read current affairs?</h2>
