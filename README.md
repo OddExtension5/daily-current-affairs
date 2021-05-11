@@ -1,4 +1,4 @@
-## 🌄 Shuboudhay 🙏🏻
+# 🌄 Shuboudhay 🙏🏻
 
 Welcome to DAILY CURRENT AFFAIR PAGE
 
@@ -6,20 +6,20 @@ Welcome to DAILY CURRENT AFFAIR PAGE
 
 ### Topics Covered Daily
 
-+ Today's top News
-+ ✈INTERNATIONAL NEWS
-+ 🌎WORLD NEWS🌍
-+ 🚣🚴🏇🏁🏊Sports
-+ EXCHANGE 💷RATE
-+ 🇮🇳Facts about India🇮🇳
-+ 😀Thought of the day
-+ Joke of the day
-+ LEARN Sanskrit🙏🏻
-+ 💁🏻‍♂️ GK TODAY
-+ ⁉ INTERESTING FACTS ⁉
-+ 🤔HOW It works...⁉️
-+ 🛕VEDIK GYAN
-+ 🧬HEALTH CARE: HOME REMEDIES🩺
++  Today's top News
++  ✈INTERNATIONAL NEWS
++  🌎WORLD NEWS🌍
++  🚣🚴🏇🏁🏊Sports
++  EXCHANGE 💷RATE
++  🇮🇳Facts about India🇮🇳
++  😀Thought of the day
++  Joke of the day
++  LEARN Sanskrit🙏🏻
++  💁🏻‍♂️ GK TODAY
++  ⁉ INTERESTING FACTS ⁉
++  🤔HOW It works...⁉️
++  🛕VEDIK GYAN
++  🧬HEALTH CARE: HOME REMEDIES🩺
 
 [MAY 2021](https://github.com/OddExtension5/daily-current-affairs/blob/main/MAY-2021.md)
 
