@@ -29,6 +29,10 @@ Welcome to the Current Affairs Section of **_Shiv Learning Centre_**
 <br>
   
 - [MAY](https://github.com/OddExtension5/daily-current-affairs/tree/main/MAY)
+  - [19th-MAY-2021](MAY/19-MAY-2021.md)
+  - [18th-MAY-2021](MAY/18-MAY-2021.md)
+  - [17th-MAY-2021](MAY/17-MAY-2021.md)
+  - [16th-MAY-2021](MAY/16-MAY-2021.md)
   - [15th-MAY-2021](MAY/15-MAY-2021.md)
   - [14th-MAY-2021](MAY/14-MAY-2021.md)
   - [13th-MAY-2021](MAY/13-MAY-2021.md)
