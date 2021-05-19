@@ -2,7 +2,7 @@
 
 Welcome to the Current Affairs Section of **_Shiv Learning Centre_**
 
-![Image](daily-caa.jpg)
+![Image](https://github.com/OddExtension5/daily-current-affairs/blob/main/assets/ca-2323.png)
 
 ## Topics Covered Daily
 
