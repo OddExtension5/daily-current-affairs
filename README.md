@@ -1,6 +1,6 @@
 # 🌄 Shuboudhay 🙏🏻
 
-Welcome to the Current Affairs Section of **_Shiv Learning Centre_**
+Welcome to the Current Affairs Section of **_Shiv Learning Center_**
 
 ![Image](https://github.com/OddExtension5/daily-current-affairs/blob/main/assets/ca-2323.png)
 
@@ -60,3 +60,6 @@ A good understanding of Current Affairs is central to success in the IAS exam, G
 
 Candidates should remain updated on current affairs that create headlines nationally as well as internationally. In fact, recent trends have shown that the static and dynamic portions of current affairs syllabus have significant overlap. The probability of encountering unexpected questions from current affairs in the traditionally static portions of the syllabus is quite high.
 </p>
+
+## Presented by
+[@ShivLearningCenter](https://www.linkedin.com/company/shiv-learning-center)
